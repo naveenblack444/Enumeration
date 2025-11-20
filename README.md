@@ -117,6 +117,7 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 ## OUTPUT:
 
+<img width="914" height="373" alt="Screenshot 2025-11-14 134223" src="https://github.com/user-attachments/assets/aeb39d36-c8ba-458f-9287-b4601421b75b" />
 
 
 select any username in the first column of the above file and check the same
