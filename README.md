@@ -33,35 +33,42 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
-![Alt text](image/1.png)
+<img width="845" height="492" alt="image" src="https://github.com/user-attachments/assets/4a64bc55-2d17-4a4b-bb4a-86bd7f58138d" />
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-![Alt text](image/2.png)
+<img width="878" height="578" alt="image" src="https://github.com/user-attachments/assets/ba0f85a2-a133-4bbb-8a66-5edea9f0a31e" />
+
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-![Alt text](image/3.png)
+<img width="834" height="736" alt="image" src="https://github.com/user-attachments/assets/77aba790-cf36-4878-956c-63181c7dd50f" />
+
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-![Alt text](image/4.png)
+<img width="844" height="840" alt="image" src="https://github.com/user-attachments/assets/ea877fb5-fda4-478a-9149-94647273a1c0" />
+
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
-![Alt text](image/5.png)
+<img width="893" height="637" alt="image" src="https://github.com/user-attachments/assets/1664b901-d9e3-4858-8e1a-42bddde8ddb5" />
+
 
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-![Alt text](image/6.png)
+<img width="912" height="536" alt="image" src="https://github.com/user-attachments/assets/d9c5787d-b758-4bb7-a1eb-b246aa9852a4" />
+
 
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- ![Alt text](image/7.png)
+<img width="1038" height="524" alt="image" src="https://github.com/user-attachments/assets/e83921c1-78ab-425e-8df9-f10a7cdc0516" />
+
 
 
 #DNS Enumeration
